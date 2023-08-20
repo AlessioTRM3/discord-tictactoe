@@ -1,6 +1,6 @@
 {
-  "token": "YOUR_BOT_USER_TOKEN",
-  "language": "en",
+  "token": "MTE0MjcwNTg3OTIwNTAyNzg5MQ.GaXGXX.59wkh3co7FiFNGk1plEi8QXLH8yfpOGmWOLxdc",
+  "language": "it",
   "command": "tictactoe",
   "commandOptionName": "opponent",
   "textCommand": "!ttt",
